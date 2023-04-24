@@ -3,6 +3,7 @@
 Performs integration of a system consisting of diffusively coupled stochastic FitzHugh-Nagumo oscillators on a 1D lattice with periodic boundary conditions:
 
 $$\epsilon\dot{u} = f(u) - v + I $$
+
 $$\dot{v}=u-bv+c $$
 
 where $f(u) = \alpha u(u-a)(1-u)$.
